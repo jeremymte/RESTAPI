@@ -17,6 +17,9 @@ What is a route?
 What is middleware?
     Middleware are functions that operate between the user requests and server responses.
 
+What is mongoose?
+    Mongoose is an Object Data Modeling (ODM) library for MongoDB and Node.js. It manages relationships between data, provides schema validation, and is used to translate between objects in code and the representation of those objects in MongoDB.
+    
 // commands
 git init
 code README.md
@@ -28,3 +31,4 @@ npm init
 //creates a package.json
 npm install express
 npm install nodemon
+npm install mongoose
